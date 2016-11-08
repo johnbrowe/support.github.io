@@ -1,0 +1,25 @@
+body {
+    background: black;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+button {
+    padding: 25px 100px;
+    background: black;
+    color: white;
+    border: none;
+    font-size: 50px;
+    border: 1px solid white;
+    border-bottom: 15px solid #007634;
+    cursor: pointer;
+}
+
+#chosenOne {
+    font-size: 200px;
+    color: white;        
+}
+
